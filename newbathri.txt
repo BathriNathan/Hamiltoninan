@@ -1,10 +1,1 @@
-file is edited today
-
-second line
-
-<<<<<<< HEAD
-
-fifthline
-=======
-thrid line
->>>>>>> 5b82e21a787ca7a01501c31353d58c29d395fcc8
+sadfdfsa
